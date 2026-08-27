@@ -46,7 +46,7 @@ A responsive productivity web app that helps users manage their everyday life in
 - 🌙 Dark Mode
 - 📲 PWA Support
 
-🔗 **Live Demo:**  https://dailylife-five.vercel.app/
+🔗 **Live Demo:** [Daily Life](https://dailylife-five.vercel.app/)
 
 ---
 
