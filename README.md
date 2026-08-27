@@ -1,4 +1,4 @@
- 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__anbu__.03) 
 
@@ -10,12 +10,12 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anbumani-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anbumani-03&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=anbumani-03&icon=3&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=anbumani-03&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
