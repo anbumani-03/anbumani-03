@@ -71,7 +71,9 @@ A responsive productivity web app that helps users manage their everyday life in
 ## 📫 Connect With Me
 
 🔗 **GitHub:** https://github.com/anbumani-03
+
 💼 **LinkedIn:** https://linkedin.com/in/anbumani26
+
 📸 **Instagram:** https://instagram.com/__anbu__.03
 
 ---
