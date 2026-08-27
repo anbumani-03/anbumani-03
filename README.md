@@ -5,7 +5,7 @@
 I'm passionate about building real-world web applications and learning Data Structures & Algorithms.
 
 🎓 First-Year IT Student  
-🌱 Currently learning C, Java, JavaScript & React  
+🌱 Currently learning C, Java,C++ 
 💡 Building practical web projects  
 🎯 Goal: Become a Full-Stack Developer  
 📍 Tamil Nadu, India
@@ -15,16 +15,15 @@ I'm passionate about building real-world web applications and learning Data Stru
 ## 🛠️ Tech Stack
 
 ### Languages
-`C` `Java` `JavaScript` `HTML` `CSS`
+`C` `Java` `C++` `HTML` `CSS`
 
-### Frontend
-`React` `Tailwind CSS`
+
 
 ### Backend & Database
-`Node.js` `Firebase` `MySQL`
+`MySQL`
 
 ### Tools
-`Git` `GitHub` `VS Code` `Figma` `Canva`
+`Git` `GitHub` `VS Code` `Canva`
 
 ---
 
@@ -47,22 +46,22 @@ A responsive productivity web app that helps users manage their everyday life in
 - 🌙 Dark Mode
 - 📲 PWA Support
 
-🔗 **Live Demo:** [DailyLife](YOUR-WEBSITE-LINK-HERE)
+🔗 **Live Demo:**  https://dailylife-five.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+
+<!--## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
+-->
 
 ## 🎯 2026 Goals
 
-- 🚀 Solve 300+ DSA problems
-- 💻 Build 10+ projects
 - 🌐 Improve Full-Stack Development
 - 🗄️ Learn more about databases
 - 🤝 Contribute to Open Source
@@ -71,8 +70,9 @@ A responsive productivity web app that helps users manage their everyday life in
 
 ## 📫 Connect With Me
 
-🔗 **GitHub:** https://github.com/YOUR_USERNAME  
-💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
+🔗 **GitHub:** https://github.com/anbumani-03
+💼 **LinkedIn:** https://linkedin.com/in/anbumani26
+📸 **Instagram:** https://instagram.com/__anbu__.03
 
 ---
 
