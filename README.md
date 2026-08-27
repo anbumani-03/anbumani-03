@@ -4,7 +4,7 @@
 
 I'm passionate about building real-world web applications and learning Data Structures & Algorithms.
 
-🎓 First-Year IT Student  
+🎓 IT Student  
 🌱 Currently learning C, Java,C++           
 💡 Building practical web projects  
 🎯 Goal: Become a Full-Stack Developer  
